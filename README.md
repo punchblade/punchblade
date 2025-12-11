@@ -16,7 +16,7 @@
 <hr/>
 <hr/>
 
-<img align="left" width="468" height="490" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
+<img align="left" width="448" height="470" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7CA3C0A7&background=15080800&center=true&vCenter=true&random=true&width=466&lines=%5B%5B%5B%5BHow+are+you+holding+up%3F+Because+I'm+a+%5B%5B%5Bpotato%5D%5D%5D;PREPARE+THYSELF!+;Drag+them+through+the+dirt!+HAHAHA!+%5D%5D%5D%5D;%5B%5B%5B%5B+You+are+already+dead.+%5D%5D%5D;%5B%5B%5B%5B+You+will+be+unique+addition+to+my+army.+%5D%5D%5D;Leviathan!+%5D%5D%5D%5D;Drag+them+through+the+dirt!;Just+give+up!;Why+is+everyone+punching+me+so+softly+today%3F;Make+yourself+useful.;You+thought+you+could+escape%3F+Adorable!" alt="Typing SVG" /></a></p>
 <p align="right">
