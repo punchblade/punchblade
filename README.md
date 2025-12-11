@@ -16,11 +16,12 @@
 <hr/>
 <hr/>
 
-<img align="left" width="408" height="430" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
+<img align="left" width="328" height="340" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
 <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7CA3C0A7&background=15080800&center=true&vCenter=true&random=true&width=466&lines=%5B%5B%5B%5BHow+are+you+holding+up%3F+Because+I'm+a+%5B%5B%5Bpotato%5D%5D%5D;PREPARE+THYSELF!+;Drag+them+through+the+dirt!+HAHAHA!+%5D%5D%5D%5D;%5B%5B%5B%5B+You+are+already+dead.+%5D%5D%5D;%5B%5B%5B%5B+You+will+be+unique+addition+to+my+army.+%5D%5D%5D;Leviathan!+%5D%5D%5D%5D;Drag+them+through+the+dirt!;Just+give+up!;Why+is+everyone+punching+me+so+softly+today%3F;Make+yourself+useful.;You+thought+you+could+escape%3F+Adorable!" alt="Typing SVG" /></a></p>
 
-<p align="right"><table><tr><td>
+<p align="right">
+<table><tr><td>
   <p align="center">
 <img width="129" height="25" alt="image" src="https://github.com/user-attachments/assets/bd4b608b-9827-4273-b120-1450814aaf6f" /><br/>
   <sup>... Revolting .... ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]</sup><br/>
@@ -30,14 +31,15 @@ hi i ii my name´s <code>geo</code> ]]]<br/>
   I might come off as awkward and rude but plz excuse it!!!<br/> ꩜ I don´t mind meeting new ppl ^3^<br/>
   [[[DNI is on <a href="https://punchblade.carrd.co/">carrd</a> ,, <code>DNI PRODARKSHIPPERS!!!</code>]]]]]]<br/>
   <img width="230" height="26" alt="image" src="https://github.com/user-attachments/assets/474cc217-d907-42b8-90c6-313c2cc45b85" /></p>
-</td></tr></table></p>
+</td></tr></table>
+</p>
 
 <p align="center">
 placeholder
 </p></br></br>
+</div>
 
 🔎︎ VERY HEAVY INSPO FROM <a href="[https://github.com/yellowmugqs]">yellowmugqs</a>!!! PLZ GO SUPPORT THEM!!!]]]</br>
-</div>
 
 ___
 
