@@ -5,7 +5,7 @@
   <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/10.gif" alt="animated" />
 </p>
   <br/><br/>
-<img align="right" width="330" height="342" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
+<img align="right" width="370" height="382" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
 <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7CA3C0A7&background=15080800&center=true&vCenter=true&random=true&width=466&lines=%5B%5B%5B%5BHow+are+you+holding+up%3F+Because+I'm+a+%5B%5B%5Bpotato%5D%5D%5D;PREPARE+THYSELF!+;Drag+them+through+the+dirt!+HAHAHA!+%5D%5D%5D%5D;%5B%5B%5B%5B+You+are+already+dead.+%5D%5D%5D;%5B%5B%5B%5B+You+will+be+unique+addition+to+my+army.+%5D%5D%5D;Leviathan!+%5D%5D%5D%5D;Drag+them+through+the+dirt!;Just+give+up!;Why+is+everyone+punching+me+so+softly+today%3F;Make+yourself+useful.;You+thought+you+could+escape%3F+Adorable!" alt="Typing SVG" /></a></p>
 
@@ -23,8 +23,8 @@ hi i ii my name´s <code>geo</code> ]]]<br/>
 </td></tr></table>
 </p>
 
-<p align="center">
-placeholder
+<img align="justify" width="99" height="56" src="https://y2k.neocities.org/stamps/tumblr_inline_pe6lflk3co1v11djx_1280.gif" alt="animated" /> ⠀ ⠀ <img align="justify" width="99" height="56" src="https://autism.crd.co/assets/images/gallery05/0d3c1e1b_original.gif?v=d6547f5c" alt="animated" /> ⠀
+<img align="justify" width="99" height="56" src="https://y2k.neocities.org/stamps/tumblr_inline_p1fyv1nUPi1rv0j40_500j.png" alt="image" />
 </p></br></br>
 </div>
 
