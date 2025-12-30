@@ -1,8 +1,3 @@
-<p align="center">
-<img width="66" height="177"src="https://64.media.tumblr.com/02348621b305bd6bf89146ff88aacdd4/6fefe7acdbd459ca-28/s250x400/8835d9f00b66397cf8562869b5eeafe4868d3dbd.gifv" alt="animated" /><img width="430" height="253" alt="image" src="https://github.com/user-attachments/assets/90f63f8e-1ed4-4f78-babb-37d43f96e1f8" />
-</p>
-
-
 <hr/>
 <hr/>
 <img width="1280" height="140" alt="image" src="https://github.com/user-attachments/assets/e43edaf2-43d7-4f94-9554-68194d76586d" />
@@ -10,8 +5,8 @@
   <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/10.gif" alt="animated" />
 </p>
   <br/><br/>
-<img align="left" width="328" height="340" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
-<p align="justify">
+<img align="right" width="330" height="342" alt="image" src="https://github.com/user-attachments/assets/88dba080-1393-4432-9f7f-625348301868" />
+<p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7CA3C0A7&background=15080800&center=true&vCenter=true&random=true&width=466&lines=%5B%5B%5B%5BHow+are+you+holding+up%3F+Because+I'm+a+%5B%5B%5Bpotato%5D%5D%5D;PREPARE+THYSELF!+;Drag+them+through+the+dirt!+HAHAHA!+%5D%5D%5D%5D;%5B%5B%5B%5B+You+are+already+dead.+%5D%5D%5D;%5B%5B%5B%5B+You+will+be+unique+addition+to+my+army.+%5D%5D%5D;Leviathan!+%5D%5D%5D%5D;Drag+them+through+the+dirt!;Just+give+up!;Why+is+everyone+punching+me+so+softly+today%3F;Make+yourself+useful.;You+thought+you+could+escape%3F+Adorable!" alt="Typing SVG" /></a></p>
 
 <p align="center">
@@ -33,7 +28,6 @@ placeholder
 </p></br></br>
 </div>
 
-🔎︎ VERY HEAVY INSPO FROM <a href="[https://github.com/yellowmugqs]">yellowmugqs</a>!!! PLZ GO SUPPORT THEM!!!]]]</br>
 <p align="center">
   <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/tumblr_lmzoe11hn11qg9aa7.gif" alt="animated" /> <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/tumblr_lmzoe11hn11qg9aa7.gif" alt="animated" />
 </p>
