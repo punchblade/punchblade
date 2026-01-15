@@ -18,7 +18,7 @@
 hi i ii my name´s <code>geo</code> ]]]<br/>
  [[[ i´m 15yo ,, ISTP 9w1<br/>
   I might come off as awkward and rude but plz excuse it!!!<br/> ꩜ I don´t mind meeting new ppl ^3^<br/>
-  [[[DNI is on <a href="https://punchblade.carrd.co/">carrd</a> ,, <code>DNI PRODARKSHIPPERS!!!</code>]]]]]]<br/>
+  [[[DNI is on <a href="https://punchblade.carrd.co/">carrd</a> ,, <code><a href="https://zombiegojira.atabook.org/">sign ATA</a>!!!</code>]]]]]]<br/>
   <img width="230" height="26" alt="image" src="https://github.com/user-attachments/assets/474cc217-d907-42b8-90c6-313c2cc45b85" /></p>
 </td></tr></table>
 </p>
