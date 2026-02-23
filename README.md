@@ -6,10 +6,10 @@
 
 <hr/>
 
-<img align="center" width="796" height="28" alt="animated" src="https://pixelsafari.neocities.org/dividers/boilingflowers.gif" />
-
-<img align="center" width="400" height="100" alt="animated" src="https://pixelsafari.neocities.org/dividers/more/bunny.gif" />
-
+<p align="center">
+<img width="796" height="28" alt="animated" src="https://pixelsafari.neocities.org/dividers/boilingflowers.gif" />
+<img width="400" height="100" alt="animated" src="https://pixelsafari.neocities.org/dividers/more/bunny.gif" />
+</p>
 
 
 
@@ -19,23 +19,28 @@
 
 
 <img align="left" width="350" height="280" alt="image" src="https://static.wikitide.net/projectsekaiwiki/4/4a/Tsukasa_44_trained_event_cutout.png" /> <img align="right" width="350" height="280" alt="image" src="https://static.wikitide.net/projectsekaiwiki/a/ae/Shizuku_45_trained_event_cutout.png" />
+<br/> <br/> <br/>
+<p align="center">
  hi my name is geo and i like to play and draw <br/>
     im a minorr ok
-    
+</p>
 
- <br/> <br/> <br/>
-<br/> <br/> <br/> <br/>
+ 
+<br/> <br/>
 <br/> <br/> <br/> <br/>
 
 <a href=https://zombiegojira.atabook.org/> <img align="right" width="155" height="53" alt="image" src="https://ov17-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-2625858392.png" />  </a>
 
 <a href=https://punchblade.straw.page//> <img align="left" width="155" height="53" alt="image" src="https://ov19-engine.flamingtext.com/netfu/tmp28004/flamingtext_com-831416380.png" /> </a>
 
-<br/>
+<br/> <br/>
 
-<img align="center" width="400" height="14" alt="animated" src="https://pixelsafari.neocities.org/dividers/yellowbluestars.gif" />
+<p align="center">
+<img width="400" height="14" alt="animated" src="https://pixelsafari.neocities.org/dividers/yellowbluestars.gif" />
+ <img width="1000" height="100" alt="animated" src="https://pixelsafari.neocities.org/dividers/more/fire2.gif" />
+</p>
 
-<br/> 
+
  <br/>
 <hr/>
 
