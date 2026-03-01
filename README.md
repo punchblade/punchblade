@@ -29,7 +29,7 @@
 <br/> <br/>
 <br/> <br/> <br/> <br/>
 
-<a href=https://zombiegojira.atabook.org/> <img align="right" width="155" height="53" alt="image" src="https://ov17-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-2625858392.png" />  </a>
+<a href=https://zombiegojira.atabook.org/> <img align="right" width="155" height="53" alt="image" src="https://de23-engine.flamingtext.com/netfu/tmp28000/coollogo_com-264461347.png" />  </a>
 
 <a href=https://punchblade.straw.page//> <img align="left" width="155" height="53" alt="image" src="https://ov19-engine.flamingtext.com/netfu/tmp28004/flamingtext_com-831416380.png" /> </a>
 
@@ -49,5 +49,5 @@
 <img width="2048" height="163" alt="image" src="https://64.media.tumblr.com/3be4c80503bef6c26dafac8b2796b7f8/e7b7377138f91a61-03/s2048x3072/a5fbb2fbad2ae19c313ecbf61a31174e5cf377da.pnj" />
 
 <p align="center">
-<img width="363" height="89" alt="image" src="https://ov20-engine.flamingtext.com/netfu/tmp28004/flamingtext_com-1268010428.png" /> <img width="250" height="89" alt="image" src="https://ov12-engine.flamingtext.com/netfu/tmp28004/flamingtext_com-4037143250.png" />
+<img width="250" height="89" alt="image" src="https://ov16-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-2664757801.png" /> <img width="250" height="89" alt="image" src="https://de29-engine.flamingtext.com/netfu/tmp28002/flamingtext_com-41406331633.png" />
 </p>
